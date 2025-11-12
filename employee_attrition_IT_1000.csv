@@ -1,0 +1,1001 @@
+Age,Gender,Department,Education,JobRole,MonthlyIncome,DistanceFromHome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,Attrition
+28,Female,Data,4,Software Engineer,54907,27,1,3,1,No,Yes
+41,Female,Cloud,4,Software Engineer,61046,24,6,1,4,Yes,No
+36,Male,Backend,1,Manager,71840,13,8,2,2,Yes,Yes
+32,Female,Cloud,1,Senior Developer,33382,26,0,4,2,Yes,Yes
+29,Female,Data,1,Data Engineer,53156,29,3,4,2,Yes,Yes
+42,Female,Backend,4,Software Engineer,53870,28,5,1,2,Yes,Yes
+28,Female,Data,4,Software Engineer,38481,28,6,1,3,No,Yes
+47,Male,Cloud,2,Senior Developer,62315,8,9,1,1,No,Yes
+40,Male,QA,3,Senior Developer,66210,23,6,3,1,Yes,No
+44,Female,Frontend,1,QA Engineer,50639,29,9,3,3,Yes,Yes
+32,Male,QA,4,DevOps Engineer,85826,5,1,1,4,Yes,Yes
+32,Female,Data,2,Data Engineer,50209,7,3,2,3,Yes,No
+45,Female,Data,2,QA Engineer,48299,36,4,3,2,No,No
+42,Female,Data,2,Software Engineer,47864,27,0,3,3,Yes,No
+25,Male,Backend,1,Senior Developer,42767,2,0,2,2,Yes,Yes
+29,Female,Security,1,Manager,46614,25,9,2,2,Yes,Yes
+45,Male,Data,3,DevOps Engineer,33488,9,2,2,1,No,Yes
+24,Male,QA,2,QA Engineer,52127,27,9,1,2,Yes,Yes
+43,Female,Frontend,1,Manager,55862,1,2,2,1,Yes,Yes
+42,Male,Data,2,DevOps Engineer,20757,23,7,3,1,Yes,Yes
+23,Male,Data,4,Manager,53470,10,8,4,3,No,No
+45,Female,Data,2,Senior Developer,55632,25,0,2,1,No,Yes
+33,Male,Backend,3,QA Engineer,62718,3,1,3,1,Yes,Yes
+27,Male,Data,1,QA Engineer,73069,6,9,1,1,No,No
+23,Female,QA,4,DevOps Engineer,67770,6,1,2,4,No,Yes
+49,Female,Cloud,1,Manager,45694,2,3,1,2,No,Yes
+42,Male,Security,4,Senior Developer,43953,18,1,1,2,No,Yes
+22,Female,Data,2,Software Engineer,63692,23,6,3,3,No,No
+33,Female,Backend,2,QA Engineer,46790,2,8,4,3,Yes,Yes
+47,Male,QA,3,Software Engineer,36579,12,6,1,1,No,No
+43,Male,Data,3,Senior Developer,90612,22,5,2,2,Yes,Yes
+33,Female,Backend,4,QA Engineer,50339,37,9,3,3,No,Yes
+46,Male,Cloud,3,QA Engineer,45602,20,0,1,2,Yes,Yes
+38,Female,Frontend,3,Manager,22118,39,9,2,1,No,Yes
+48,Female,Data,3,Software Engineer,67771,24,8,3,3,No,No
+48,Male,QA,3,Manager,40180,20,4,2,2,Yes,Yes
+31,Male,Backend,2,Data Engineer,55429,1,4,1,1,No,Yes
+49,Female,Backend,3,Software Engineer,69529,1,5,2,2,Yes,Yes
+49,Female,Data,2,Software Engineer,40415,17,8,3,1,No,Yes
+37,Female,Backend,2,Data Engineer,56192,1,7,2,1,Yes,Yes
+36,Female,Frontend,1,Senior Developer,77856,30,7,1,3,Yes,Yes
+36,Male,Backend,2,Senior Developer,20000,3,7,3,1,No,Yes
+40,Female,Security,2,QA Engineer,42842,11,0,1,2,Yes,Yes
+33,Male,Security,3,DevOps Engineer,41431,24,0,3,2,No,Yes
+44,Male,Backend,2,Manager,52196,22,7,1,1,Yes,Yes
+41,Female,Data,4,DevOps Engineer,54283,26,4,4,4,Yes,No
+46,Male,Security,3,QA Engineer,39081,13,8,2,1,Yes,Yes
+24,Male,QA,3,DevOps Engineer,45184,1,1,1,1,Yes,Yes
+26,Female,Security,3,Software Engineer,43401,24,8,1,1,Yes,Yes
+40,Male,Backend,1,Software Engineer,49738,10,7,1,1,Yes,Yes
+28,Male,Data,3,Data Engineer,58273,35,8,4,1,Yes,Yes
+42,Female,Cloud,2,Data Engineer,68658,24,3,4,3,Yes,No
+30,Female,Data,4,QA Engineer,70829,28,0,2,4,No,Yes
+28,Female,Data,3,QA Engineer,64804,36,0,2,1,No,Yes
+39,Female,Data,3,QA Engineer,41890,16,4,3,2,Yes,No
+25,Female,QA,4,Software Engineer,54950,16,1,4,3,No,No
+46,Female,Frontend,3,DevOps Engineer,90614,17,7,2,3,Yes,Yes
+49,Female,Backend,1,Manager,70217,15,9,2,2,No,Yes
+35,Male,Frontend,2,QA Engineer,48392,16,4,2,1,No,No
+39,Male,Cloud,4,QA Engineer,78730,15,4,3,1,No,No
+47,Female,Frontend,4,Software Engineer,49178,34,1,1,3,Yes,Yes
+30,Male,Backend,1,Manager,44973,11,6,2,3,No,No
+47,Male,Backend,2,Software Engineer,75935,1,7,2,1,Yes,Yes
+42,Female,Cloud,1,Manager,35355,15,9,3,1,No,Yes
+23,Male,Backend,2,Software Engineer,26293,26,0,1,4,Yes,Yes
+41,Female,Cloud,1,DevOps Engineer,69119,4,1,2,3,No,Yes
+49,Male,Cloud,3,QA Engineer,55415,5,9,2,4,No,No
+36,Female,Backend,1,Senior Developer,56910,35,3,2,3,No,No
+49,Male,Security,4,Senior Developer,49578,13,4,1,1,Yes,Yes
+28,Male,Cloud,4,QA Engineer,51422,10,1,2,2,No,Yes
+33,Male,Backend,4,QA Engineer,48128,11,0,2,2,Yes,Yes
+29,Female,Security,1,QA Engineer,45610,18,8,2,1,No,No
+36,Male,Cloud,4,QA Engineer,49271,34,0,2,2,Yes,Yes
+24,Male,Security,4,Manager,48798,39,3,3,3,Yes,No
+35,Female,QA,3,DevOps Engineer,42571,23,1,3,1,Yes,Yes
+38,Female,Data,3,Senior Developer,46822,7,3,1,3,Yes,Yes
+25,Male,QA,2,Data Engineer,20000,39,7,3,2,Yes,Yes
+39,Male,Security,2,Senior Developer,65269,3,7,2,4,Yes,Yes
+29,Male,Cloud,2,Senior Developer,60853,12,8,1,1,Yes,Yes
+25,Male,Backend,1,Software Engineer,53726,7,4,1,1,No,Yes
+23,Female,Frontend,2,QA Engineer,58559,26,6,1,2,No,Yes
+27,Male,Backend,1,QA Engineer,59103,33,2,3,1,Yes,Yes
+43,Male,Frontend,1,QA Engineer,44139,37,9,3,3,Yes,No
+31,Female,Frontend,2,Software Engineer,47011,15,3,3,3,Yes,Yes
+25,Male,Cloud,2,DevOps Engineer,62924,2,9,2,1,Yes,Yes
+43,Male,Security,1,DevOps Engineer,58112,7,8,2,2,No,Yes
+39,Male,Backend,3,Data Engineer,85649,32,9,1,2,No,Yes
+47,Female,Security,4,DevOps Engineer,79294,4,9,1,1,Yes,Yes
+33,Female,QA,4,DevOps Engineer,68995,20,0,2,4,Yes,Yes
+23,Male,Cloud,4,QA Engineer,43573,36,1,1,3,Yes,Yes
+31,Male,Cloud,3,Manager,46531,32,4,1,2,No,Yes
+25,Female,QA,1,Senior Developer,39969,28,2,2,3,No,Yes
+35,Male,Backend,2,DevOps Engineer,59196,13,1,3,2,Yes,Yes
+37,Male,Data,1,DevOps Engineer,20000,1,0,4,4,Yes,Yes
+36,Female,QA,1,Software Engineer,48120,35,9,4,2,No,No
+29,Female,Backend,2,Data Engineer,50399,30,2,2,3,No,No
+35,Female,Frontend,3,Manager,32135,36,0,2,3,Yes,Yes
+44,Male,Cloud,4,Software Engineer,66966,25,0,2,1,Yes,Yes
+49,Male,Backend,4,QA Engineer,37912,16,0,3,3,Yes,Yes
+46,Male,Security,1,Senior Developer,59016,19,7,1,1,Yes,Yes
+29,Male,Security,3,Data Engineer,96756,1,2,2,1,Yes,No
+42,Female,Cloud,4,Software Engineer,30834,5,0,3,1,Yes,Yes
+37,Male,QA,3,DevOps Engineer,52771,22,6,2,4,Yes,Yes
+34,Male,Data,2,DevOps Engineer,48888,24,9,2,3,Yes,Yes
+39,Female,QA,1,Data Engineer,45970,37,2,2,3,No,Yes
+36,Female,Backend,1,DevOps Engineer,66403,36,7,1,3,Yes,Yes
+42,Male,QA,3,Software Engineer,71594,36,3,2,2,Yes,Yes
+45,Female,Cloud,4,Software Engineer,66574,4,3,1,4,Yes,No
+47,Female,Backend,3,DevOps Engineer,44149,36,4,1,2,Yes,Yes
+46,Male,Frontend,2,DevOps Engineer,91507,18,5,1,1,No,No
+49,Male,QA,4,QA Engineer,28446,16,6,3,1,Yes,Yes
+49,Male,QA,4,Senior Developer,39510,18,3,1,3,Yes,Yes
+49,Male,Data,3,Data Engineer,57545,22,7,2,3,No,No
+34,Female,Backend,2,Software Engineer,56340,2,5,1,1,Yes,Yes
+30,Female,Security,4,Data Engineer,62320,21,0,4,1,No,No
+36,Male,QA,1,QA Engineer,78702,36,0,1,3,Yes,Yes
+34,Male,Cloud,2,Software Engineer,53202,39,8,2,1,Yes,Yes
+22,Female,QA,4,QA Engineer,56705,39,9,4,3,Yes,No
+46,Male,Data,3,QA Engineer,46082,29,5,3,4,Yes,No
+28,Male,Frontend,4,Manager,63824,26,9,1,2,No,Yes
+30,Male,Data,1,DevOps Engineer,50222,21,7,3,1,No,No
+45,Male,QA,2,Manager,50214,17,6,2,3,Yes,Yes
+22,Female,Security,4,Data Engineer,63152,16,5,2,3,Yes,Yes
+33,Male,QA,1,Data Engineer,70523,31,3,1,2,No,Yes
+29,Female,Backend,4,DevOps Engineer,21878,9,6,1,4,No,Yes
+45,Male,QA,4,Manager,60411,31,8,3,1,Yes,No
+32,Male,Security,2,Data Engineer,50946,14,9,2,2,Yes,Yes
+40,Female,Backend,3,Manager,69214,37,9,2,3,Yes,Yes
+38,Male,Cloud,3,DevOps Engineer,51248,2,6,3,3,No,No
+29,Female,Backend,1,Software Engineer,74515,14,0,3,1,Yes,Yes
+24,Male,Data,1,QA Engineer,44853,33,9,1,3,Yes,Yes
+24,Male,Frontend,1,QA Engineer,21545,35,8,2,2,No,Yes
+22,Male,Data,2,Manager,70773,39,3,1,1,Yes,Yes
+48,Male,Backend,3,Data Engineer,42346,20,2,3,1,Yes,Yes
+26,Male,Cloud,1,Manager,31296,2,3,3,3,Yes,Yes
+31,Female,QA,1,Manager,55240,19,3,4,1,Yes,Yes
+28,Female,Backend,4,Senior Developer,51412,37,9,1,1,Yes,Yes
+47,Male,Data,4,QA Engineer,67346,18,1,1,1,Yes,Yes
+30,Male,Backend,1,DevOps Engineer,68386,16,0,1,3,Yes,Yes
+49,Female,Backend,4,Manager,56434,4,9,1,2,Yes,Yes
+28,Female,Backend,4,Senior Developer,41727,12,0,1,3,No,Yes
+30,Male,Cloud,4,Senior Developer,59304,29,7,4,1,No,No
+29,Male,Security,2,QA Engineer,57477,7,1,1,2,Yes,Yes
+33,Female,Security,1,QA Engineer,63534,14,9,1,2,Yes,Yes
+23,Male,Backend,1,QA Engineer,41877,12,4,3,3,Yes,Yes
+22,Female,Cloud,4,DevOps Engineer,48994,35,3,2,4,Yes,Yes
+37,Male,Cloud,2,Senior Developer,62640,5,7,3,1,Yes,Yes
+44,Female,Backend,4,Data Engineer,73709,17,1,1,2,No,Yes
+44,Female,Data,2,DevOps Engineer,69488,32,9,2,1,Yes,Yes
+45,Male,Data,1,Software Engineer,56230,10,8,1,2,Yes,Yes
+26,Female,Frontend,4,Manager,47689,17,6,1,1,Yes,Yes
+24,Male,Backend,1,QA Engineer,61057,5,6,4,1,No,No
+33,Male,Frontend,2,Senior Developer,38629,9,0,1,1,Yes,Yes
+29,Male,Data,3,Manager,42744,33,1,2,2,No,Yes
+43,Male,Data,2,DevOps Engineer,77646,36,3,2,1,Yes,Yes
+48,Female,Backend,3,Software Engineer,61030,36,3,1,3,No,No
+24,Male,Frontend,1,DevOps Engineer,49787,18,2,4,2,No,Yes
+22,Male,Frontend,1,DevOps Engineer,67437,9,6,1,1,Yes,Yes
+24,Male,Backend,4,Data Engineer,74304,29,7,3,3,Yes,Yes
+26,Male,Frontend,3,Manager,48330,14,1,4,1,Yes,Yes
+36,Female,QA,2,Data Engineer,48588,25,3,2,2,Yes,Yes
+35,Male,Data,1,DevOps Engineer,46710,15,2,4,2,No,No
+24,Female,Security,3,Software Engineer,69457,6,1,1,1,No,Yes
+22,Female,Cloud,2,Senior Developer,69603,29,5,2,1,No,Yes
+26,Female,Frontend,3,Senior Developer,75788,15,3,1,1,No,No
+47,Male,Frontend,2,Manager,70129,29,5,3,4,Yes,No
+44,Male,Cloud,2,QA Engineer,30516,4,1,4,2,Yes,Yes
+35,Male,Frontend,2,QA Engineer,59214,18,3,1,2,No,No
+28,Male,Cloud,2,Senior Developer,39124,39,5,3,2,Yes,Yes
+48,Female,Backend,3,DevOps Engineer,47306,16,4,1,1,No,Yes
+30,Female,QA,3,DevOps Engineer,57558,11,2,2,2,Yes,Yes
+36,Male,QA,4,Data Engineer,67533,14,7,2,3,Yes,Yes
+36,Male,Data,3,Manager,41637,3,6,4,1,No,No
+47,Male,Security,3,Data Engineer,20129,38,2,2,1,Yes,Yes
+31,Male,Frontend,4,QA Engineer,57707,18,5,1,1,No,Yes
+49,Male,Security,3,Senior Developer,94653,20,3,1,2,No,No
+34,Male,Backend,2,DevOps Engineer,51957,25,4,1,4,No,No
+40,Male,QA,1,Senior Developer,55703,38,4,1,1,No,Yes
+28,Female,Backend,1,Software Engineer,81732,13,6,1,2,Yes,Yes
+38,Female,Backend,4,Senior Developer,63854,4,4,4,1,No,No
+41,Female,Frontend,3,Software Engineer,58252,14,2,2,4,Yes,Yes
+25,Female,Backend,3,Data Engineer,61631,33,9,2,1,Yes,Yes
+26,Male,QA,4,Data Engineer,58753,28,4,1,2,No,Yes
+44,Male,Security,1,QA Engineer,37903,37,6,4,3,Yes,Yes
+28,Male,QA,2,Senior Developer,34878,8,4,3,3,Yes,Yes
+34,Male,Frontend,3,Senior Developer,83302,34,4,1,2,Yes,Yes
+36,Male,QA,4,Software Engineer,57758,5,8,3,1,Yes,No
+32,Female,Cloud,2,Data Engineer,56501,5,2,2,1,No,Yes
+25,Male,Security,4,Software Engineer,53646,31,5,1,1,Yes,Yes
+34,Female,Cloud,4,Data Engineer,66716,9,0,2,1,No,Yes
+28,Male,Cloud,4,Software Engineer,93080,32,9,2,2,No,Yes
+48,Female,Data,1,Data Engineer,62859,33,4,1,1,No,Yes
+40,Male,Frontend,1,Software Engineer,46178,3,7,4,1,Yes,Yes
+43,Female,Backend,4,Data Engineer,52998,30,4,3,2,No,No
+49,Male,Cloud,3,Manager,71064,12,8,3,4,Yes,No
+23,Male,QA,2,Software Engineer,46257,29,5,2,2,No,No
+31,Male,Backend,3,Senior Developer,67783,3,7,2,1,Yes,Yes
+34,Male,QA,1,QA Engineer,20188,26,9,3,1,No,Yes
+46,Female,QA,2,Manager,51551,30,7,2,4,No,Yes
+42,Male,Backend,4,Manager,64422,9,2,1,1,Yes,Yes
+27,Female,Backend,3,Software Engineer,74051,26,6,2,1,Yes,Yes
+49,Male,QA,3,QA Engineer,42722,2,6,3,2,No,Yes
+49,Female,Frontend,4,Senior Developer,32458,3,9,2,2,Yes,Yes
+33,Male,Security,3,Manager,51088,4,5,1,2,No,Yes
+33,Male,Data,1,Senior Developer,38118,25,6,3,1,Yes,Yes
+41,Female,Security,4,Data Engineer,52764,13,1,1,1,Yes,Yes
+32,Male,Frontend,3,QA Engineer,54900,39,8,1,4,No,Yes
+47,Male,Data,4,DevOps Engineer,35212,35,9,1,1,No,Yes
+44,Female,Backend,2,Data Engineer,67066,23,9,1,2,No,No
+49,Male,Data,4,QA Engineer,52641,9,0,3,3,Yes,Yes
+46,Female,QA,3,Software Engineer,71206,2,0,2,2,No,Yes
+28,Male,Security,1,Software Engineer,27326,31,2,1,1,Yes,Yes
+22,Female,Data,4,Senior Developer,39742,2,2,4,1,No,No
+22,Female,QA,4,Manager,62750,32,0,4,2,No,Yes
+46,Female,Frontend,3,DevOps Engineer,43013,18,6,4,3,Yes,Yes
+48,Female,Data,1,Software Engineer,52531,13,3,1,4,Yes,Yes
+46,Male,QA,1,QA Engineer,55010,5,9,2,1,Yes,Yes
+41,Male,Frontend,2,Manager,57373,10,1,4,1,No,No
+34,Female,Backend,2,Manager,44836,25,9,3,4,Yes,Yes
+30,Male,Frontend,3,QA Engineer,57239,34,4,1,3,No,Yes
+24,Male,Frontend,1,Manager,43261,37,5,1,3,Yes,Yes
+28,Male,Security,1,Software Engineer,65114,30,8,2,1,No,Yes
+27,Female,QA,2,QA Engineer,53277,7,3,4,2,No,No
+29,Male,Data,2,QA Engineer,57325,6,1,2,3,Yes,Yes
+48,Male,Security,3,Senior Developer,93548,3,4,2,2,Yes,Yes
+30,Female,Cloud,1,DevOps Engineer,38393,13,2,1,2,Yes,Yes
+26,Male,Frontend,4,Senior Developer,75828,3,1,3,1,No,Yes
+22,Female,Cloud,2,DevOps Engineer,20000,26,0,3,2,No,Yes
+40,Female,Security,3,QA Engineer,23824,24,9,2,1,Yes,Yes
+31,Female,QA,1,Manager,36390,6,1,3,2,No,No
+33,Male,Security,1,DevOps Engineer,37337,12,5,4,4,Yes,Yes
+45,Male,QA,2,QA Engineer,58055,36,7,1,1,Yes,Yes
+36,Female,QA,3,QA Engineer,59347,2,2,2,3,No,No
+48,Female,Backend,4,Senior Developer,51177,11,8,1,1,Yes,Yes
+43,Female,Frontend,2,Senior Developer,52751,39,8,3,2,Yes,Yes
+45,Female,Security,3,Manager,62916,34,1,2,4,Yes,Yes
+30,Female,QA,1,Data Engineer,67498,26,7,2,1,Yes,Yes
+41,Female,Security,4,Software Engineer,35101,18,9,3,1,Yes,Yes
+38,Male,Security,3,Data Engineer,49571,21,4,2,2,Yes,Yes
+38,Female,QA,4,Data Engineer,53956,36,3,4,1,No,No
+47,Female,Data,3,Manager,62279,22,9,2,3,Yes,Yes
+41,Female,Cloud,3,DevOps Engineer,43409,30,4,1,4,Yes,Yes
+33,Male,Frontend,3,Manager,53661,30,3,3,2,Yes,Yes
+28,Male,Frontend,3,Manager,55449,8,7,3,1,Yes,No
+23,Male,Data,4,QA Engineer,44432,34,3,1,2,No,Yes
+24,Male,Backend,2,QA Engineer,44075,9,9,4,3,No,No
+38,Female,Data,4,QA Engineer,56481,20,5,4,1,Yes,No
+26,Male,Backend,3,Software Engineer,53044,25,1,1,2,No,Yes
+38,Female,Backend,4,DevOps Engineer,62507,19,4,4,2,Yes,Yes
+45,Female,Data,4,DevOps Engineer,39201,5,5,1,2,Yes,Yes
+38,Female,Frontend,4,QA Engineer,49739,11,4,1,1,Yes,No
+48,Female,Cloud,3,Data Engineer,51561,15,1,1,3,Yes,Yes
+38,Female,Frontend,4,Software Engineer,67207,8,6,4,1,Yes,Yes
+23,Female,Frontend,1,Data Engineer,40893,19,3,3,1,No,Yes
+23,Male,Frontend,3,Senior Developer,58519,23,7,1,3,Yes,Yes
+49,Male,Data,4,DevOps Engineer,58791,27,6,2,3,No,No
+43,Male,Data,1,DevOps Engineer,79695,32,6,2,1,Yes,Yes
+44,Male,Data,4,Data Engineer,39893,26,8,1,1,Yes,Yes
+26,Male,Frontend,2,Software Engineer,45141,27,0,4,1,No,No
+22,Female,Cloud,4,DevOps Engineer,40939,19,9,3,1,Yes,Yes
+22,Male,Backend,4,Data Engineer,29953,29,5,2,1,Yes,Yes
+40,Male,Security,2,Manager,81470,39,5,4,1,No,Yes
+23,Male,Backend,3,Manager,36377,33,5,2,2,No,Yes
+42,Female,Backend,2,Software Engineer,42755,19,5,4,3,No,No
+33,Female,Security,3,Data Engineer,74736,37,9,3,2,No,No
+47,Female,Frontend,2,Manager,28703,19,6,2,2,No,Yes
+27,Male,Cloud,4,Software Engineer,66345,33,9,1,1,No,Yes
+44,Male,Cloud,4,QA Engineer,33804,16,5,4,4,Yes,Yes
+25,Male,Backend,3,Software Engineer,73700,23,0,2,3,Yes,Yes
+44,Male,Security,3,Senior Developer,22451,7,2,1,3,Yes,Yes
+32,Male,QA,1,QA Engineer,28697,26,1,1,3,Yes,Yes
+45,Female,Frontend,1,Data Engineer,46826,32,5,2,4,No,Yes
+48,Male,Backend,4,QA Engineer,69577,12,7,2,2,No,Yes
+38,Female,Cloud,4,QA Engineer,54535,8,2,3,1,Yes,Yes
+27,Male,Data,1,Data Engineer,49964,5,9,4,2,Yes,Yes
+45,Female,Data,1,Data Engineer,75190,28,7,1,3,No,Yes
+26,Female,Security,3,Manager,87328,5,7,3,3,Yes,Yes
+41,Female,Security,2,Senior Developer,65083,26,4,1,2,No,Yes
+23,Female,Backend,3,Data Engineer,45657,5,7,4,1,Yes,No
+27,Male,QA,1,DevOps Engineer,48727,22,5,3,1,Yes,No
+43,Male,Cloud,4,DevOps Engineer,35673,15,4,2,4,Yes,Yes
+32,Male,Backend,1,Senior Developer,56512,13,8,3,2,Yes,Yes
+37,Female,QA,4,Software Engineer,30556,28,6,1,2,No,Yes
+37,Male,Security,4,Software Engineer,63277,33,7,2,1,No,Yes
+22,Male,Data,4,DevOps Engineer,85083,23,0,3,1,No,No
+30,Male,Frontend,4,Data Engineer,65763,33,1,2,3,Yes,Yes
+49,Male,Data,2,Senior Developer,47962,18,7,2,2,Yes,Yes
+48,Female,Cloud,1,Software Engineer,62904,30,8,2,3,No,Yes
+27,Female,Cloud,3,Software Engineer,79308,26,3,3,2,No,Yes
+37,Male,Data,4,QA Engineer,78557,16,9,1,2,Yes,Yes
+24,Male,Data,4,DevOps Engineer,39943,13,9,1,1,Yes,Yes
+41,Male,QA,3,Data Engineer,62654,39,8,3,3,No,No
+49,Female,Backend,3,Senior Developer,52628,33,3,3,2,Yes,Yes
+48,Female,Security,4,Software Engineer,67098,26,9,1,2,Yes,Yes
+25,Female,QA,3,QA Engineer,60754,1,9,1,2,Yes,Yes
+40,Male,Frontend,3,DevOps Engineer,20000,38,9,1,4,Yes,Yes
+47,Female,Data,2,DevOps Engineer,49779,2,8,1,1,No,Yes
+24,Female,Frontend,3,Senior Developer,57978,6,6,2,3,No,No
+40,Female,Frontend,1,Software Engineer,33484,38,1,3,1,Yes,Yes
+41,Female,QA,1,Senior Developer,63715,24,8,3,2,Yes,Yes
+28,Female,Security,1,Senior Developer,32139,18,3,2,1,Yes,Yes
+41,Male,Cloud,4,Manager,43023,27,7,2,1,Yes,Yes
+30,Male,Backend,1,QA Engineer,75119,8,6,3,2,Yes,Yes
+22,Male,Cloud,2,DevOps Engineer,41743,28,6,2,1,No,Yes
+29,Male,Security,1,Manager,63609,10,7,4,2,Yes,Yes
+28,Female,Cloud,4,Data Engineer,28696,17,0,2,4,Yes,Yes
+39,Male,Data,2,DevOps Engineer,86219,29,4,1,1,Yes,Yes
+29,Male,Data,1,DevOps Engineer,50431,6,1,3,3,Yes,Yes
+22,Male,QA,2,QA Engineer,56429,14,1,1,2,Yes,Yes
+32,Female,Frontend,2,Data Engineer,57685,22,0,3,2,Yes,Yes
+49,Male,Security,4,Software Engineer,64113,6,4,1,1,No,Yes
+46,Female,Security,4,Data Engineer,32212,26,1,1,1,Yes,Yes
+46,Female,Cloud,2,Software Engineer,54919,39,3,4,1,Yes,Yes
+39,Female,QA,1,Data Engineer,45118,12,2,1,1,No,Yes
+44,Male,Cloud,4,Senior Developer,29656,35,2,3,1,No,Yes
+31,Female,Cloud,2,Data Engineer,69806,14,1,1,2,Yes,Yes
+24,Male,Security,3,Manager,49717,22,5,2,3,No,Yes
+28,Male,Cloud,3,Manager,58637,23,1,3,3,Yes,No
+49,Male,Frontend,4,QA Engineer,57697,7,7,2,2,Yes,Yes
+37,Female,Cloud,1,Software Engineer,49977,25,7,1,1,Yes,Yes
+47,Female,Frontend,3,DevOps Engineer,84625,13,4,1,1,No,Yes
+37,Male,Security,3,QA Engineer,54291,21,9,1,1,No,Yes
+46,Female,QA,3,Manager,31630,10,6,1,1,Yes,Yes
+41,Female,Data,1,Manager,48994,9,3,3,2,Yes,Yes
+49,Female,Frontend,1,Software Engineer,62496,15,0,4,2,No,No
+38,Male,QA,4,Manager,62988,2,1,4,1,Yes,No
+23,Female,QA,4,Manager,38683,25,9,3,1,Yes,No
+22,Female,Frontend,3,Software Engineer,68942,13,9,3,3,No,No
+37,Male,Security,1,Manager,28556,34,3,3,3,No,No
+33,Female,Backend,2,DevOps Engineer,72162,34,0,1,1,No,Yes
+26,Male,QA,3,Senior Developer,35209,35,7,4,4,No,No
+26,Female,QA,4,QA Engineer,51606,38,8,3,4,Yes,No
+48,Female,Security,1,DevOps Engineer,70968,3,3,2,1,No,Yes
+44,Female,Security,4,DevOps Engineer,56794,6,9,1,1,No,No
+30,Female,Cloud,4,Senior Developer,67250,19,2,2,2,Yes,Yes
+30,Female,Security,1,QA Engineer,64279,3,1,2,4,Yes,Yes
+24,Female,QA,3,DevOps Engineer,74294,18,4,4,3,Yes,No
+40,Male,Frontend,1,Manager,70933,39,2,2,1,Yes,Yes
+37,Female,Backend,3,Senior Developer,48193,9,9,2,1,No,Yes
+37,Female,Cloud,4,QA Engineer,64494,12,6,4,2,No,No
+24,Female,Frontend,1,Data Engineer,32101,5,5,1,2,Yes,Yes
+41,Male,Backend,2,Software Engineer,54131,3,0,2,1,Yes,Yes
+45,Male,Backend,3,Manager,67277,11,7,1,3,No,No
+43,Male,Backend,2,Senior Developer,57007,30,1,3,2,Yes,Yes
+45,Female,Data,3,Software Engineer,61699,4,4,4,3,Yes,No
+22,Female,Frontend,1,Data Engineer,51800,5,8,1,3,Yes,Yes
+45,Male,Cloud,2,DevOps Engineer,71936,1,7,4,3,Yes,No
+41,Male,Cloud,1,DevOps Engineer,53793,27,1,1,2,Yes,Yes
+32,Male,Backend,3,QA Engineer,48018,28,8,4,2,Yes,Yes
+38,Female,Frontend,3,Senior Developer,68297,29,4,3,1,Yes,Yes
+29,Male,Data,3,Senior Developer,33922,18,9,3,2,Yes,No
+25,Female,Backend,3,QA Engineer,62515,12,5,1,1,Yes,Yes
+27,Female,Security,4,Software Engineer,39362,13,2,4,2,Yes,Yes
+29,Female,Cloud,3,DevOps Engineer,74168,2,2,3,1,No,No
+41,Male,QA,2,DevOps Engineer,51084,37,9,1,1,No,Yes
+24,Female,Backend,3,Senior Developer,57024,16,7,3,1,Yes,Yes
+37,Male,Security,1,Senior Developer,61188,24,9,1,1,Yes,Yes
+46,Male,Cloud,4,QA Engineer,26054,35,9,4,3,No,No
+24,Male,Data,2,Data Engineer,45241,22,1,1,3,Yes,Yes
+46,Male,Frontend,4,Software Engineer,70653,36,1,3,2,Yes,Yes
+39,Female,Cloud,4,Manager,68016,11,4,2,1,No,Yes
+35,Female,Frontend,4,Data Engineer,59245,29,5,1,1,No,Yes
+39,Female,Frontend,1,Data Engineer,34758,35,1,1,1,No,Yes
+23,Female,Data,4,Senior Developer,63782,15,4,1,1,Yes,Yes
+43,Male,Data,4,Senior Developer,65700,31,6,2,3,No,No
+24,Male,Backend,3,Senior Developer,55705,16,9,1,1,Yes,Yes
+37,Male,Backend,1,Data Engineer,73347,10,9,2,1,No,No
+30,Male,Cloud,2,Software Engineer,44748,32,7,1,1,Yes,Yes
+25,Female,Data,2,Senior Developer,47352,2,6,1,1,Yes,Yes
+22,Male,Security,2,DevOps Engineer,20000,24,7,3,2,No,No
+25,Female,Cloud,1,Software Engineer,68797,23,8,1,2,Yes,Yes
+22,Male,QA,2,DevOps Engineer,59707,2,4,4,1,Yes,Yes
+35,Male,Frontend,1,Software Engineer,29772,38,4,4,1,No,No
+42,Male,Frontend,3,Senior Developer,28621,31,9,3,1,Yes,Yes
+37,Male,Backend,3,Manager,41910,26,3,2,1,Yes,Yes
+41,Female,Security,1,QA Engineer,66904,29,8,4,1,Yes,Yes
+45,Female,Data,2,Senior Developer,50494,3,4,1,4,No,Yes
+29,Female,Data,1,Data Engineer,42928,14,1,1,2,No,Yes
+28,Female,Backend,1,Manager,39908,25,9,1,2,Yes,Yes
+24,Male,QA,4,Data Engineer,39236,1,7,3,2,No,No
+38,Male,Cloud,1,Software Engineer,25994,3,6,1,2,Yes,Yes
+22,Female,Cloud,4,Data Engineer,36889,26,7,2,2,No,Yes
+37,Female,Security,3,Manager,38941,18,2,4,2,Yes,Yes
+33,Male,Backend,4,Manager,65239,9,3,4,3,Yes,Yes
+48,Male,Backend,1,Senior Developer,52514,38,4,2,1,No,Yes
+40,Female,QA,3,DevOps Engineer,42616,23,5,1,2,Yes,Yes
+43,Female,Cloud,4,Senior Developer,89645,21,0,3,2,Yes,Yes
+44,Female,Backend,1,Software Engineer,45041,1,3,2,3,Yes,Yes
+43,Male,Data,3,Data Engineer,72506,21,9,1,2,No,Yes
+35,Female,Security,4,DevOps Engineer,79316,27,4,1,2,Yes,Yes
+27,Female,Cloud,1,QA Engineer,31450,6,6,4,1,Yes,Yes
+27,Female,QA,1,Manager,56109,36,4,3,2,Yes,Yes
+34,Female,Security,2,DevOps Engineer,47236,28,0,3,1,Yes,Yes
+40,Female,Frontend,2,DevOps Engineer,46016,17,6,4,1,Yes,No
+43,Male,Data,4,Senior Developer,63330,3,7,2,1,No,No
+29,Female,QA,4,QA Engineer,45656,12,6,2,2,No,Yes
+48,Male,Security,4,Manager,47560,39,3,2,1,Yes,Yes
+48,Female,Backend,1,Software Engineer,52478,12,7,1,1,Yes,Yes
+23,Female,Frontend,4,Software Engineer,49399,2,4,2,3,Yes,No
+42,Female,QA,1,DevOps Engineer,37396,22,9,3,1,Yes,Yes
+22,Male,Backend,4,DevOps Engineer,66938,23,8,2,2,No,No
+49,Male,Data,1,Data Engineer,70727,30,9,4,2,Yes,No
+36,Male,Frontend,1,QA Engineer,60154,5,4,2,1,Yes,Yes
+22,Female,Cloud,2,Manager,49351,9,0,2,3,No,Yes
+26,Female,Backend,3,DevOps Engineer,44421,21,8,2,1,Yes,Yes
+49,Male,Security,1,Data Engineer,44445,11,4,2,2,No,No
+37,Male,QA,4,QA Engineer,90360,5,5,3,2,Yes,No
+40,Female,Frontend,2,Manager,69067,35,3,1,2,No,Yes
+25,Male,Backend,4,Software Engineer,42398,27,5,2,2,No,Yes
+24,Female,Cloud,4,Data Engineer,57470,2,7,1,1,No,Yes
+38,Male,QA,1,QA Engineer,49561,24,2,2,1,No,Yes
+38,Male,QA,1,Data Engineer,63757,31,4,2,3,Yes,Yes
+33,Male,Backend,3,DevOps Engineer,63152,33,1,3,2,Yes,Yes
+49,Female,Cloud,1,Senior Developer,71254,39,1,4,3,No,Yes
+35,Female,Data,1,Software Engineer,42241,30,6,2,3,Yes,Yes
+42,Male,Data,3,DevOps Engineer,56571,37,9,3,3,Yes,No
+27,Female,Frontend,4,DevOps Engineer,28771,28,9,2,2,Yes,Yes
+24,Female,Backend,3,QA Engineer,36139,31,9,2,1,Yes,Yes
+49,Female,Frontend,3,Data Engineer,68261,11,5,1,3,Yes,No
+30,Female,Data,3,Software Engineer,40739,23,3,1,2,Yes,Yes
+26,Male,QA,2,DevOps Engineer,42386,2,4,2,1,No,Yes
+45,Female,Frontend,4,QA Engineer,54875,27,0,2,3,Yes,Yes
+38,Female,Cloud,2,Software Engineer,65421,35,6,1,3,Yes,Yes
+35,Male,Security,2,Data Engineer,39087,2,7,1,2,Yes,Yes
+42,Female,Data,1,DevOps Engineer,20000,39,8,1,1,Yes,Yes
+24,Female,Data,3,Manager,41946,37,7,4,1,No,No
+49,Female,Cloud,3,DevOps Engineer,73084,21,4,1,3,Yes,No
+22,Male,Frontend,2,DevOps Engineer,60147,5,2,2,4,Yes,Yes
+41,Male,Backend,1,Software Engineer,74858,21,9,1,1,No,Yes
+42,Female,QA,1,Software Engineer,38022,29,8,2,1,Yes,Yes
+44,Female,Security,1,Software Engineer,30409,20,5,1,3,Yes,Yes
+22,Male,Backend,4,Software Engineer,61938,38,4,1,1,Yes,Yes
+24,Male,Backend,2,QA Engineer,58600,20,2,2,2,No,No
+39,Male,Cloud,4,Senior Developer,59583,25,5,1,4,Yes,No
+46,Female,Frontend,1,QA Engineer,68994,2,2,1,1,Yes,Yes
+31,Female,Data,1,DevOps Engineer,61325,32,9,1,2,Yes,Yes
+43,Male,Data,1,QA Engineer,61084,26,5,1,1,Yes,Yes
+47,Female,Cloud,3,Data Engineer,65725,6,3,1,1,Yes,Yes
+24,Female,Frontend,2,Manager,62536,3,1,1,3,Yes,Yes
+29,Female,Cloud,3,Software Engineer,67861,33,7,3,2,Yes,Yes
+35,Female,Data,4,Data Engineer,70127,1,3,2,4,No,No
+45,Female,Backend,3,Manager,77975,5,8,2,2,No,Yes
+39,Female,QA,2,Data Engineer,45262,13,6,1,1,Yes,Yes
+36,Female,Frontend,3,DevOps Engineer,62208,19,1,4,1,No,Yes
+43,Male,Security,1,Software Engineer,49445,12,3,2,1,Yes,Yes
+44,Male,Security,4,Data Engineer,42496,25,4,1,1,Yes,Yes
+23,Male,Backend,4,DevOps Engineer,44656,35,2,2,1,No,Yes
+48,Male,Cloud,1,Software Engineer,62424,12,8,1,1,No,No
+31,Male,Cloud,1,Senior Developer,61273,30,4,1,2,No,Yes
+23,Male,Data,1,DevOps Engineer,61006,5,1,2,3,Yes,Yes
+47,Male,Backend,2,QA Engineer,51614,34,2,4,2,No,No
+38,Male,Data,3,Software Engineer,55051,22,8,2,3,Yes,No
+29,Male,Data,4,Data Engineer,67266,39,6,3,1,No,No
+22,Female,Security,3,Manager,32659,13,1,4,1,No,No
+30,Female,Data,1,Data Engineer,55369,3,8,1,2,Yes,Yes
+32,Male,Data,1,QA Engineer,56349,20,3,1,2,No,Yes
+43,Female,Security,3,QA Engineer,66299,31,8,2,1,Yes,Yes
+37,Female,Cloud,4,Data Engineer,34746,5,1,2,3,Yes,Yes
+28,Male,Frontend,2,Manager,77427,24,9,2,3,Yes,Yes
+31,Male,QA,3,Software Engineer,58204,33,3,4,2,Yes,Yes
+44,Male,Data,1,DevOps Engineer,58998,8,4,3,1,No,Yes
+47,Female,Frontend,1,QA Engineer,48979,24,1,2,3,No,Yes
+24,Female,Security,2,QA Engineer,63070,20,9,1,2,Yes,Yes
+39,Male,Frontend,3,QA Engineer,55719,16,0,3,3,No,No
+46,Female,QA,2,Manager,73134,12,6,4,3,No,No
+45,Female,Frontend,2,Senior Developer,33377,13,9,3,3,Yes,Yes
+34,Female,Frontend,4,Manager,57633,39,0,1,2,No,Yes
+49,Male,Frontend,4,Software Engineer,61127,25,7,2,1,Yes,Yes
+47,Female,Frontend,1,Software Engineer,52204,32,2,1,2,No,Yes
+28,Female,Backend,3,Software Engineer,48930,24,9,1,2,Yes,Yes
+46,Female,Data,4,Software Engineer,49555,9,5,1,3,Yes,Yes
+25,Female,Security,1,Software Engineer,57619,23,6,2,1,Yes,Yes
+34,Female,QA,3,Data Engineer,27850,13,9,3,1,No,No
+41,Female,Security,1,QA Engineer,69475,32,0,1,3,Yes,Yes
+22,Female,Backend,4,Manager,47798,15,5,2,3,Yes,Yes
+29,Male,Backend,1,Data Engineer,56917,36,6,2,4,Yes,Yes
+35,Male,Backend,3,Manager,60506,5,5,2,3,No,Yes
+37,Female,Data,3,Senior Developer,47112,22,3,1,2,Yes,Yes
+35,Male,Backend,1,DevOps Engineer,53034,16,0,2,2,Yes,Yes
+33,Female,Frontend,3,QA Engineer,24471,10,8,3,3,Yes,Yes
+40,Female,Security,1,Senior Developer,65981,24,3,1,2,Yes,Yes
+44,Female,Cloud,3,Data Engineer,71201,18,6,1,2,No,Yes
+36,Male,QA,1,DevOps Engineer,29485,18,6,2,1,No,Yes
+49,Female,Backend,1,Senior Developer,48902,7,1,4,2,Yes,Yes
+23,Female,Security,1,Manager,36551,4,0,3,3,Yes,Yes
+23,Male,Backend,2,DevOps Engineer,52333,26,7,3,1,No,No
+44,Male,Data,3,Manager,64729,5,7,2,1,Yes,Yes
+43,Female,Backend,4,Senior Developer,69809,16,6,2,1,No,Yes
+40,Male,Backend,1,Data Engineer,71827,35,7,1,1,No,Yes
+46,Male,Backend,2,Manager,74658,26,2,2,1,No,No
+47,Female,Backend,4,DevOps Engineer,51663,18,1,4,2,Yes,Yes
+43,Female,QA,1,Senior Developer,37795,29,6,2,4,Yes,Yes
+47,Female,Security,4,Manager,53281,23,7,4,2,No,No
+47,Male,Data,2,Data Engineer,64499,14,0,3,1,Yes,Yes
+43,Male,Backend,4,QA Engineer,36591,15,9,1,1,No,Yes
+38,Male,Backend,1,Data Engineer,79902,33,8,4,2,Yes,No
+41,Female,Backend,4,Data Engineer,68468,25,3,1,1,No,Yes
+31,Male,Backend,4,QA Engineer,51901,21,3,2,3,Yes,Yes
+27,Male,Frontend,1,Data Engineer,44336,17,2,1,2,Yes,Yes
+36,Female,Frontend,2,QA Engineer,44963,23,5,1,3,Yes,Yes
+43,Female,Cloud,2,QA Engineer,56113,17,0,2,1,No,Yes
+32,Female,Backend,4,Manager,51558,14,5,1,2,No,Yes
+49,Male,Cloud,3,Manager,69257,29,1,2,1,Yes,Yes
+26,Female,QA,4,QA Engineer,49855,20,8,2,4,Yes,No
+22,Male,Cloud,3,Senior Developer,62582,30,1,1,2,No,Yes
+29,Male,Security,4,DevOps Engineer,54566,19,6,1,1,Yes,Yes
+42,Female,Frontend,2,Senior Developer,59045,39,0,2,1,Yes,Yes
+49,Female,Frontend,4,QA Engineer,51549,13,6,1,1,Yes,Yes
+33,Female,Backend,4,DevOps Engineer,65615,18,4,3,2,Yes,Yes
+33,Female,Backend,3,Manager,65838,23,7,3,1,Yes,Yes
+26,Female,QA,2,DevOps Engineer,61898,33,3,3,2,Yes,No
+28,Male,Data,3,QA Engineer,64112,39,9,3,1,Yes,Yes
+25,Male,QA,4,Manager,40834,18,6,2,2,Yes,Yes
+27,Male,Security,1,DevOps Engineer,59848,9,5,3,3,Yes,Yes
+34,Female,Backend,4,DevOps Engineer,73738,33,4,1,3,Yes,Yes
+41,Male,Backend,4,Senior Developer,62371,32,3,1,3,Yes,Yes
+36,Female,QA,3,DevOps Engineer,39539,17,6,3,1,No,Yes
+24,Female,QA,1,QA Engineer,54253,19,4,2,1,Yes,Yes
+44,Male,QA,1,Software Engineer,60624,27,4,3,2,Yes,Yes
+29,Male,Frontend,3,Software Engineer,43639,6,0,3,1,Yes,Yes
+41,Female,Cloud,2,Software Engineer,34625,35,1,4,2,Yes,Yes
+37,Male,Cloud,1,QA Engineer,50258,37,4,4,1,Yes,Yes
+34,Female,Backend,1,Software Engineer,43887,34,2,2,1,Yes,Yes
+39,Male,Frontend,3,Senior Developer,54785,20,1,1,1,No,Yes
+49,Male,QA,2,QA Engineer,31128,25,3,2,3,Yes,Yes
+31,Male,Backend,2,Manager,63470,4,3,2,1,No,Yes
+40,Male,Frontend,4,QA Engineer,45480,10,3,2,2,Yes,Yes
+38,Male,Security,4,QA Engineer,69936,10,3,3,1,Yes,No
+45,Female,Data,3,DevOps Engineer,50846,24,2,3,2,Yes,Yes
+40,Male,Frontend,2,DevOps Engineer,54619,21,6,2,1,Yes,Yes
+49,Male,Backend,3,DevOps Engineer,52404,11,8,1,3,Yes,Yes
+47,Male,Cloud,4,Data Engineer,44677,27,4,2,3,No,Yes
+44,Female,QA,3,Senior Developer,92084,16,3,1,1,Yes,Yes
+47,Female,Data,3,QA Engineer,47562,26,1,4,4,No,No
+26,Female,Security,1,QA Engineer,70352,30,1,1,4,No,Yes
+47,Female,Data,1,DevOps Engineer,38595,16,4,1,3,Yes,Yes
+42,Female,Data,1,QA Engineer,60581,7,6,1,3,Yes,Yes
+44,Male,Frontend,4,Manager,62183,16,9,2,1,Yes,Yes
+30,Male,Backend,3,QA Engineer,54637,35,9,2,2,Yes,Yes
+33,Male,Backend,1,Software Engineer,46434,16,8,1,1,Yes,Yes
+42,Female,Data,1,Manager,51050,12,6,1,1,Yes,Yes
+22,Female,QA,1,Manager,48950,35,4,2,4,Yes,Yes
+47,Male,Backend,4,QA Engineer,91030,21,9,1,1,Yes,Yes
+47,Female,Data,4,Data Engineer,54660,36,9,3,3,No,No
+22,Female,Backend,3,DevOps Engineer,62873,17,9,2,3,No,No
+36,Female,QA,3,Senior Developer,81724,32,5,2,3,No,No
+23,Male,Security,3,Senior Developer,41855,6,2,1,4,Yes,Yes
+43,Male,Data,1,Software Engineer,55564,24,4,4,1,Yes,Yes
+37,Female,Cloud,2,Senior Developer,50962,27,7,2,1,Yes,Yes
+46,Female,Cloud,4,Senior Developer,53707,20,0,3,2,Yes,Yes
+29,Female,Data,1,DevOps Engineer,52314,25,0,1,1,Yes,Yes
+34,Female,Frontend,1,DevOps Engineer,44021,2,6,2,1,No,Yes
+42,Male,Security,3,Data Engineer,57931,9,4,1,1,No,Yes
+22,Female,Frontend,3,Software Engineer,39060,28,4,2,3,Yes,Yes
+37,Male,Cloud,1,Senior Developer,69833,38,0,4,2,Yes,Yes
+28,Male,QA,4,Data Engineer,64349,3,8,2,1,Yes,Yes
+26,Male,Data,4,Software Engineer,47598,20,0,1,2,Yes,Yes
+43,Female,Backend,1,Manager,48325,6,4,1,1,Yes,Yes
+44,Male,Cloud,2,Senior Developer,59132,39,9,2,1,Yes,Yes
+24,Male,Security,2,Senior Developer,43021,33,8,1,3,Yes,Yes
+33,Female,Cloud,4,DevOps Engineer,82179,1,3,1,2,No,No
+47,Female,Security,3,QA Engineer,60368,37,7,3,3,Yes,Yes
+37,Female,Security,2,Software Engineer,60898,6,5,2,1,No,Yes
+40,Male,Data,2,Senior Developer,65221,34,2,1,3,Yes,Yes
+26,Female,Security,3,Software Engineer,46308,15,3,4,2,Yes,No
+43,Male,Frontend,2,Data Engineer,71335,26,1,1,2,Yes,Yes
+46,Male,QA,1,Data Engineer,56718,14,0,4,2,Yes,No
+35,Female,Cloud,2,QA Engineer,69252,7,7,1,3,Yes,Yes
+49,Male,QA,3,Senior Developer,52030,31,0,4,2,No,Yes
+26,Male,Backend,1,DevOps Engineer,74759,24,0,2,2,No,Yes
+36,Male,Cloud,2,Senior Developer,61020,31,3,3,4,Yes,Yes
+38,Male,QA,4,Software Engineer,87737,29,9,4,3,Yes,Yes
+35,Female,QA,1,Manager,49457,32,9,1,2,No,Yes
+41,Male,Data,1,Data Engineer,58068,17,5,4,3,Yes,No
+26,Female,Data,4,Software Engineer,39526,14,8,2,1,Yes,Yes
+33,Male,Backend,4,QA Engineer,47060,36,0,2,1,Yes,Yes
+37,Male,Security,2,Data Engineer,64280,24,6,1,2,No,No
+47,Female,Cloud,2,DevOps Engineer,71939,27,9,2,4,No,No
+47,Male,Data,3,Data Engineer,99475,25,4,1,4,Yes,No
+37,Male,Cloud,3,Manager,53550,32,7,2,1,No,Yes
+42,Male,Backend,1,Senior Developer,41001,18,6,2,2,No,Yes
+28,Male,Data,4,Manager,66299,18,3,3,1,Yes,No
+25,Male,Data,4,Manager,38082,37,3,3,4,Yes,Yes
+22,Male,Security,3,Senior Developer,63464,26,5,2,4,Yes,Yes
+26,Female,Cloud,1,Data Engineer,47466,9,5,1,2,No,No
+44,Female,Cloud,1,QA Engineer,58173,35,8,1,3,Yes,Yes
+47,Female,Cloud,3,Senior Developer,71365,8,4,1,3,No,No
+31,Male,Security,3,Senior Developer,53338,20,7,1,2,Yes,Yes
+43,Male,Data,3,DevOps Engineer,68993,22,4,1,1,No,Yes
+26,Male,Backend,2,Data Engineer,68097,19,1,1,2,Yes,Yes
+25,Female,Cloud,1,Senior Developer,27035,30,5,4,2,Yes,Yes
+23,Male,QA,1,QA Engineer,41475,28,8,2,2,No,Yes
+41,Female,Security,1,Software Engineer,31572,35,2,1,1,No,Yes
+31,Male,Frontend,3,Data Engineer,85026,11,0,2,4,No,No
+47,Male,Backend,3,DevOps Engineer,53419,31,0,1,1,Yes,Yes
+40,Male,QA,3,Manager,81712,39,2,2,2,No,Yes
+47,Female,Cloud,3,Senior Developer,30505,36,9,2,2,Yes,Yes
+22,Male,Frontend,4,QA Engineer,46408,30,4,2,2,Yes,Yes
+45,Female,Backend,3,Data Engineer,67007,23,2,2,2,Yes,Yes
+26,Male,Security,2,QA Engineer,57689,19,8,4,1,Yes,No
+34,Male,Frontend,4,QA Engineer,62992,12,7,4,1,Yes,Yes
+25,Female,Data,4,Manager,36192,15,2,2,2,No,Yes
+37,Male,Frontend,3,DevOps Engineer,75652,31,8,2,2,Yes,Yes
+45,Male,QA,1,Data Engineer,66655,37,5,2,1,No,Yes
+37,Male,Backend,3,Senior Developer,61024,37,6,1,3,Yes,Yes
+44,Male,QA,1,DevOps Engineer,44715,15,3,2,2,Yes,Yes
+23,Female,QA,3,Senior Developer,59857,29,3,1,2,Yes,Yes
+38,Female,Cloud,3,Software Engineer,50627,26,1,2,3,No,Yes
+49,Male,Security,1,QA Engineer,30242,2,4,2,1,No,Yes
+48,Male,Frontend,1,Software Engineer,54243,20,7,1,1,No,Yes
+41,Female,Backend,1,QA Engineer,52649,15,6,4,3,No,No
+45,Male,Data,1,Manager,70936,4,6,4,2,Yes,Yes
+33,Female,Security,2,DevOps Engineer,21483,22,5,3,2,Yes,Yes
+39,Male,Security,1,Senior Developer,58527,38,2,2,3,No,Yes
+24,Female,Backend,3,Manager,37666,23,4,4,3,Yes,Yes
+49,Female,Security,3,Senior Developer,59788,26,0,1,4,Yes,Yes
+22,Female,Cloud,2,DevOps Engineer,60614,11,6,3,2,Yes,Yes
+22,Female,Security,1,Data Engineer,53697,28,8,1,2,Yes,Yes
+40,Male,Cloud,3,Software Engineer,67109,2,0,3,2,Yes,Yes
+32,Male,Frontend,2,Software Engineer,36313,8,1,1,1,Yes,Yes
+26,Female,Frontend,3,Senior Developer,71615,29,2,4,2,Yes,Yes
+33,Female,QA,2,Senior Developer,44378,11,2,4,1,Yes,Yes
+24,Female,Cloud,2,Senior Developer,31661,37,7,1,4,Yes,Yes
+22,Female,Data,4,DevOps Engineer,50914,18,6,2,2,Yes,Yes
+22,Male,Frontend,4,Data Engineer,23572,14,5,4,2,No,No
+29,Female,Security,1,Software Engineer,58812,10,9,2,1,Yes,Yes
+31,Female,Backend,4,Manager,51111,35,9,4,1,Yes,Yes
+32,Female,Backend,2,QA Engineer,73505,9,3,2,1,No,Yes
+33,Female,Cloud,3,DevOps Engineer,64733,35,8,2,2,Yes,Yes
+34,Female,Data,3,Software Engineer,34120,11,0,1,1,Yes,Yes
+33,Female,QA,1,Data Engineer,42424,12,1,1,2,No,Yes
+35,Female,Security,4,DevOps Engineer,62809,3,3,3,3,Yes,No
+23,Male,Cloud,1,Manager,67706,39,2,2,3,No,No
+40,Female,Backend,2,Software Engineer,73337,14,0,2,2,No,Yes
+39,Female,Cloud,4,DevOps Engineer,73217,28,4,2,1,No,Yes
+24,Female,Security,1,Software Engineer,53657,11,6,2,3,Yes,No
+44,Male,Data,3,Software Engineer,60439,39,1,4,3,Yes,Yes
+38,Male,Data,3,Data Engineer,74481,25,4,4,1,Yes,No
+47,Male,Frontend,1,QA Engineer,50450,21,5,2,3,Yes,No
+29,Female,Security,1,Data Engineer,60695,10,6,3,1,Yes,Yes
+47,Female,Frontend,1,Software Engineer,50096,15,0,3,3,Yes,No
+31,Female,Frontend,2,DevOps Engineer,46735,19,6,2,4,Yes,Yes
+47,Male,Frontend,2,Manager,55725,22,3,4,1,Yes,Yes
+23,Female,Cloud,3,Data Engineer,44686,21,7,1,3,Yes,Yes
+40,Male,Backend,2,QA Engineer,53036,32,3,1,2,Yes,Yes
+30,Male,Data,2,Software Engineer,39475,23,5,4,4,No,Yes
+28,Male,Cloud,4,Manager,52150,13,8,2,2,Yes,Yes
+25,Male,Backend,2,Data Engineer,61725,5,4,3,3,Yes,No
+47,Male,Data,4,Data Engineer,46168,4,3,4,1,No,Yes
+42,Female,Security,2,Data Engineer,55139,28,7,1,1,Yes,Yes
+39,Female,Data,3,Data Engineer,57090,14,8,4,1,Yes,Yes
+34,Male,Data,1,Manager,61788,8,3,2,4,Yes,Yes
+32,Female,Data,3,DevOps Engineer,52996,9,2,2,3,No,No
+45,Female,QA,2,QA Engineer,71287,35,7,2,3,Yes,Yes
+25,Male,Security,1,QA Engineer,23486,37,4,4,4,Yes,No
+46,Male,Cloud,1,Software Engineer,99066,21,1,1,1,Yes,Yes
+42,Female,Cloud,1,Senior Developer,41932,18,9,2,1,No,Yes
+46,Female,Backend,4,DevOps Engineer,61050,33,8,3,1,Yes,Yes
+25,Female,Cloud,3,Software Engineer,40922,8,2,3,1,Yes,Yes
+31,Female,Frontend,4,Software Engineer,64664,17,1,3,1,No,No
+26,Male,Data,1,Data Engineer,59148,31,0,1,2,Yes,Yes
+30,Female,Cloud,3,Senior Developer,45239,34,7,1,1,No,Yes
+45,Male,Backend,3,Senior Developer,71096,6,2,2,1,Yes,Yes
+24,Male,Backend,2,DevOps Engineer,52540,22,6,3,1,No,No
+38,Female,Frontend,4,Senior Developer,63208,14,0,1,1,Yes,Yes
+24,Female,Backend,4,Software Engineer,41242,3,0,1,4,No,Yes
+37,Female,QA,2,Senior Developer,54536,12,8,4,3,No,No
+25,Male,Data,4,Senior Developer,85051,36,7,1,4,Yes,Yes
+39,Male,Data,1,QA Engineer,69444,12,2,4,2,Yes,No
+38,Male,Data,1,Software Engineer,59614,2,5,3,1,Yes,Yes
+28,Male,Security,4,Manager,48266,2,2,3,3,Yes,No
+45,Female,Cloud,2,Senior Developer,56012,15,3,1,1,Yes,Yes
+44,Male,QA,3,Senior Developer,57963,23,0,1,1,Yes,Yes
+26,Male,Cloud,4,Data Engineer,61738,29,4,3,1,Yes,No
+33,Female,QA,3,Senior Developer,38850,17,0,3,1,Yes,Yes
+38,Male,Cloud,2,Senior Developer,65026,32,0,3,1,Yes,Yes
+44,Male,Frontend,3,QA Engineer,38656,7,9,1,1,No,Yes
+34,Female,Backend,2,Software Engineer,79466,30,6,3,2,Yes,Yes
+44,Male,Backend,2,DevOps Engineer,43425,28,5,3,1,Yes,Yes
+46,Male,Frontend,1,Software Engineer,59449,14,1,3,1,Yes,Yes
+24,Male,QA,1,Data Engineer,70077,30,1,3,3,Yes,No
+30,Male,Security,2,Software Engineer,51214,17,6,3,1,Yes,Yes
+38,Female,QA,4,Senior Developer,60109,32,0,2,1,Yes,Yes
+38,Male,Backend,1,Data Engineer,76527,6,1,1,3,Yes,Yes
+41,Female,Security,2,Software Engineer,63466,24,7,2,1,No,No
+37,Male,Cloud,3,Data Engineer,60333,6,5,1,1,Yes,Yes
+46,Female,Security,3,DevOps Engineer,29728,27,1,2,2,No,Yes
+43,Female,QA,4,Software Engineer,40994,18,6,2,1,No,Yes
+34,Female,Frontend,3,Manager,70703,24,3,1,2,No,Yes
+48,Male,Cloud,3,Senior Developer,63549,37,1,1,3,No,Yes
+40,Male,QA,2,Data Engineer,65821,24,5,1,1,Yes,Yes
+38,Male,Cloud,3,Manager,64530,38,8,3,2,Yes,No
+25,Female,Security,3,Manager,74346,34,8,4,2,No,No
+33,Male,Backend,3,QA Engineer,51079,15,7,1,1,Yes,Yes
+30,Male,QA,3,Data Engineer,56807,11,2,4,2,Yes,Yes
+40,Male,Frontend,2,Manager,39569,22,2,2,1,No,Yes
+33,Male,Security,3,QA Engineer,35829,24,1,1,2,No,Yes
+30,Female,QA,4,Manager,30343,1,4,1,1,No,Yes
+28,Female,Frontend,1,Senior Developer,41722,18,3,2,2,No,Yes
+49,Male,QA,4,DevOps Engineer,78288,12,6,3,1,No,Yes
+35,Male,Security,1,QA Engineer,31709,28,3,3,3,Yes,Yes
+41,Male,QA,4,DevOps Engineer,50446,7,8,1,1,No,Yes
+40,Female,Cloud,1,Data Engineer,35602,23,1,1,2,Yes,Yes
+47,Male,Security,1,Senior Developer,45985,21,5,2,2,Yes,Yes
+36,Female,QA,1,QA Engineer,57545,34,6,1,3,No,Yes
+37,Female,Backend,1,Data Engineer,44498,11,3,1,2,Yes,Yes
+42,Male,QA,2,Manager,71344,22,5,1,2,Yes,No
+26,Male,Cloud,4,Software Engineer,78009,35,6,3,3,Yes,Yes
+24,Male,Frontend,1,Data Engineer,21263,29,3,4,3,No,No
+33,Female,Frontend,4,DevOps Engineer,44755,28,7,2,1,Yes,Yes
+46,Female,Frontend,3,Senior Developer,55887,18,8,4,2,No,No
+41,Male,Backend,1,Senior Developer,71891,14,0,1,3,Yes,Yes
+48,Female,Cloud,4,Data Engineer,48186,18,6,2,4,No,No
+42,Male,Security,2,Manager,54700,28,8,1,3,No,Yes
+25,Male,Frontend,4,Software Engineer,37648,24,9,2,1,Yes,Yes
+42,Female,Cloud,1,DevOps Engineer,32008,8,4,4,1,Yes,Yes
+44,Female,QA,3,Data Engineer,76680,8,1,2,2,Yes,Yes
+37,Female,Backend,4,Data Engineer,27638,4,9,2,3,No,Yes
+46,Female,Cloud,3,Senior Developer,89929,27,5,2,2,No,Yes
+28,Male,Cloud,2,DevOps Engineer,65877,36,6,1,2,No,Yes
+34,Male,Security,4,Software Engineer,65199,5,1,4,3,Yes,Yes
+42,Male,Cloud,4,Senior Developer,63632,33,1,2,1,No,Yes
+31,Female,Security,2,Data Engineer,51209,34,9,2,3,No,No
+47,Male,Backend,2,Senior Developer,60881,30,9,2,2,No,Yes
+28,Female,Backend,2,Senior Developer,52166,8,0,2,1,No,Yes
+35,Female,QA,1,QA Engineer,63296,39,3,1,2,Yes,Yes
+47,Female,Security,1,Senior Developer,54494,26,6,3,3,Yes,Yes
+26,Male,Security,4,Manager,40744,37,8,1,1,No,Yes
+24,Female,Frontend,4,Senior Developer,41941,34,2,3,1,No,Yes
+44,Female,Frontend,4,Manager,40235,7,6,3,4,Yes,Yes
+32,Female,QA,3,DevOps Engineer,69563,28,6,3,1,Yes,No
+32,Female,Backend,2,Senior Developer,45738,39,6,2,2,Yes,Yes
+39,Female,Data,4,Software Engineer,26318,39,1,2,2,Yes,Yes
+36,Female,Frontend,2,Manager,60952,28,5,1,2,Yes,Yes
+33,Female,Cloud,1,Manager,77717,14,1,3,2,No,No
+30,Female,Backend,2,Data Engineer,66596,38,5,1,1,No,Yes
+31,Female,Data,3,DevOps Engineer,45950,4,9,2,2,Yes,No
+47,Female,Cloud,3,Senior Developer,31197,18,2,1,1,Yes,Yes
+33,Female,Security,2,Software Engineer,52985,25,1,1,2,Yes,Yes
+38,Female,Backend,3,Data Engineer,52611,7,5,2,1,Yes,Yes
+27,Male,QA,3,DevOps Engineer,40462,38,1,1,2,No,Yes
+28,Male,Security,1,Manager,63265,28,4,3,1,No,No
+35,Female,Security,4,Software Engineer,82699,5,1,1,1,Yes,Yes
+34,Female,Cloud,3,Senior Developer,58334,3,2,1,1,No,Yes
+29,Female,Security,4,QA Engineer,57407,31,2,2,1,No,Yes
+31,Male,Frontend,2,QA Engineer,40941,20,5,1,3,No,No
+30,Male,Backend,2,DevOps Engineer,75961,19,5,1,1,Yes,Yes
+39,Male,Frontend,3,Software Engineer,53872,11,9,3,4,No,No
+48,Female,Cloud,2,Data Engineer,46315,3,2,1,4,Yes,Yes
+47,Female,Data,1,Software Engineer,55955,23,2,3,2,Yes,Yes
+23,Female,Cloud,3,Manager,62079,7,0,1,1,Yes,Yes
+26,Female,Backend,3,QA Engineer,57088,23,6,1,1,Yes,Yes
+26,Male,Security,3,DevOps Engineer,73092,7,7,3,3,Yes,Yes
+27,Female,QA,2,Senior Developer,60759,34,1,1,1,Yes,Yes
+40,Male,Cloud,2,Software Engineer,50740,19,3,1,1,Yes,Yes
+29,Male,Backend,3,QA Engineer,61017,9,9,2,2,No,Yes
+37,Female,QA,4,Data Engineer,62494,18,6,1,3,No,No
+34,Male,Security,2,DevOps Engineer,35554,25,7,3,3,Yes,No
+22,Male,Data,2,Senior Developer,72241,14,0,1,1,No,Yes
+43,Male,Cloud,3,Software Engineer,50486,25,3,3,2,No,No
+41,Male,Data,4,Data Engineer,50870,19,5,4,1,No,No
+38,Female,Backend,3,Senior Developer,66270,39,2,2,1,Yes,Yes
+28,Female,Data,2,Manager,66207,15,4,4,3,No,No
+46,Male,Data,3,QA Engineer,44487,16,9,2,1,No,Yes
+34,Female,Backend,3,Manager,67043,27,8,4,1,No,Yes
+25,Male,Backend,3,QA Engineer,46593,10,2,1,1,Yes,Yes
+25,Female,Cloud,4,Data Engineer,82293,4,4,3,3,Yes,No
+27,Female,Data,3,Manager,42577,19,7,2,3,No,Yes
+49,Female,QA,2,QA Engineer,58592,28,5,2,2,Yes,Yes
+40,Female,Backend,3,DevOps Engineer,43269,21,3,2,3,Yes,Yes
+33,Female,Security,4,Data Engineer,88340,14,7,3,1,Yes,No
+43,Male,Data,1,QA Engineer,36432,33,2,1,2,No,Yes
+28,Female,Backend,4,Software Engineer,62865,10,2,1,1,No,Yes
+48,Male,QA,3,QA Engineer,43976,19,3,3,1,Yes,Yes
+31,Male,Cloud,1,Manager,49688,30,8,3,2,No,No
+47,Female,Data,3,DevOps Engineer,61803,22,4,4,4,Yes,No
+40,Male,Backend,4,Senior Developer,73368,3,7,3,1,No,No
+28,Female,Backend,1,Senior Developer,79350,37,5,4,1,No,No
+24,Male,Security,1,QA Engineer,31945,18,2,3,1,No,Yes
+34,Male,Security,3,Senior Developer,59016,11,7,1,1,No,Yes
+34,Female,Data,3,QA Engineer,76892,2,8,1,4,Yes,Yes
+39,Female,Backend,4,DevOps Engineer,29720,12,7,3,2,No,Yes
+49,Female,Data,3,Senior Developer,59715,6,3,2,2,Yes,Yes
+47,Female,Backend,1,Manager,54968,29,5,1,3,No,Yes
+41,Male,Security,2,Manager,61218,30,0,2,1,No,Yes
+49,Female,QA,2,Software Engineer,43415,2,3,4,2,No,No
+29,Male,Frontend,4,QA Engineer,33465,9,7,2,2,Yes,Yes
+30,Male,Frontend,3,Senior Developer,26303,2,0,2,2,No,Yes
+28,Male,Backend,4,Manager,69645,29,2,2,4,Yes,Yes
+22,Male,Security,2,DevOps Engineer,71560,33,0,1,3,Yes,Yes
+24,Male,Cloud,2,DevOps Engineer,59540,10,8,2,1,No,Yes
+34,Male,Cloud,3,Software Engineer,46987,34,1,2,3,Yes,Yes
+49,Female,Frontend,1,DevOps Engineer,30654,8,8,1,1,No,No
+46,Male,QA,3,DevOps Engineer,63450,37,3,3,1,Yes,No
+49,Male,Frontend,2,Senior Developer,38488,33,1,2,1,Yes,Yes
+38,Male,Backend,1,QA Engineer,44330,6,3,3,1,No,Yes
+46,Female,QA,4,Data Engineer,46201,19,9,4,2,Yes,Yes
+45,Female,Cloud,2,DevOps Engineer,52036,32,5,1,2,Yes,Yes
+22,Male,Security,4,DevOps Engineer,43614,27,6,3,4,No,No
+27,Female,Security,1,Data Engineer,55501,1,2,2,2,Yes,Yes
+42,Male,Backend,4,DevOps Engineer,45672,33,2,4,2,No,No
+27,Female,Frontend,2,Senior Developer,65520,32,9,1,1,Yes,Yes
+47,Male,Backend,3,Senior Developer,70465,5,7,3,1,No,No
+33,Female,Security,4,Data Engineer,56628,17,4,2,2,No,Yes
+34,Female,Cloud,2,Manager,61939,8,3,1,2,No,Yes
+34,Female,Security,2,DevOps Engineer,86767,34,6,1,3,Yes,Yes
+36,Male,QA,1,Manager,37410,9,6,3,1,No,Yes
+42,Male,Data,2,DevOps Engineer,36497,23,8,3,1,No,Yes
+37,Male,Security,3,QA Engineer,65424,35,8,1,2,No,Yes
+43,Female,Security,3,DevOps Engineer,84198,7,4,2,1,Yes,Yes
+42,Female,Data,4,Senior Developer,51092,15,7,2,1,No,Yes
+32,Male,QA,4,Software Engineer,80902,20,9,3,3,No,No
+49,Female,Frontend,4,Software Engineer,56446,25,0,1,1,Yes,Yes
+26,Male,Security,4,Software Engineer,44786,3,8,4,2,Yes,Yes
+25,Male,Backend,3,Software Engineer,40139,24,7,1,1,No,Yes
+24,Male,Security,1,Manager,64441,34,5,2,1,Yes,Yes
+40,Male,Backend,4,Manager,41275,22,2,1,1,No,Yes
+41,Female,QA,1,DevOps Engineer,56219,11,2,1,3,No,No
+46,Female,Security,2,Manager,78751,8,7,2,1,No,No
+39,Female,QA,2,DevOps Engineer,50398,39,4,1,3,Yes,Yes
+36,Male,QA,4,QA Engineer,74710,35,9,3,1,Yes,No
+30,Female,Frontend,2,DevOps Engineer,36781,38,6,1,3,No,Yes
+38,Male,Security,1,Software Engineer,46991,8,4,2,1,Yes,No
+35,Male,Backend,1,Data Engineer,33892,37,7,1,2,No,Yes
+36,Male,Backend,2,Data Engineer,56094,27,9,1,2,Yes,Yes
+22,Male,Security,4,Senior Developer,66701,28,9,1,4,Yes,No
+42,Male,Data,1,Senior Developer,56127,34,3,2,1,Yes,Yes
+43,Male,Frontend,1,DevOps Engineer,73405,32,1,2,1,Yes,Yes
+43,Female,Frontend,3,Data Engineer,43762,15,2,2,1,No,Yes
+24,Female,Frontend,4,Software Engineer,58380,17,7,2,3,Yes,Yes
+37,Female,Backend,3,Manager,47087,33,6,2,2,Yes,Yes
+44,Female,QA,2,Software Engineer,60425,16,1,1,3,Yes,Yes
+46,Male,Data,2,Software Engineer,62556,29,5,2,1,Yes,Yes
+32,Male,Frontend,3,DevOps Engineer,63735,9,8,4,1,Yes,Yes
+33,Female,Backend,4,DevOps Engineer,38941,33,3,2,1,No,Yes
+31,Female,Backend,1,QA Engineer,41653,29,8,3,4,Yes,No
+37,Female,QA,2,Software Engineer,44435,13,1,1,2,Yes,Yes
+29,Female,Security,4,Software Engineer,51416,21,1,3,4,Yes,Yes
+27,Female,Security,4,DevOps Engineer,56307,21,8,3,1,No,Yes
+33,Female,Frontend,2,DevOps Engineer,65621,5,6,2,2,Yes,Yes
+45,Female,Frontend,2,QA Engineer,42278,10,6,4,2,Yes,Yes
+49,Female,Data,4,QA Engineer,30984,6,0,1,1,No,Yes
+42,Male,QA,1,Senior Developer,87336,13,5,1,3,Yes,Yes
+29,Male,Frontend,3,Data Engineer,38028,1,6,3,4,Yes,Yes
+47,Male,QA,2,Software Engineer,67544,20,5,3,3,Yes,No
+49,Male,Backend,3,Software Engineer,55469,8,5,1,3,No,Yes
+25,Female,Frontend,4,QA Engineer,58769,10,1,1,1,Yes,Yes
+47,Male,Backend,3,QA Engineer,54976,9,5,1,1,No,Yes
+29,Female,Cloud,1,Senior Developer,49227,3,3,1,4,No,No
+47,Male,QA,4,Data Engineer,61959,11,8,3,1,Yes,Yes
+49,Female,Cloud,1,Senior Developer,48421,12,0,2,3,Yes,Yes
+39,Female,Frontend,4,Data Engineer,72494,10,7,1,3,Yes,Yes
+49,Male,Backend,1,Manager,63526,25,4,2,2,No,Yes
+49,Male,Frontend,4,Software Engineer,63993,25,0,1,4,Yes,Yes
+26,Female,Cloud,1,Senior Developer,47393,11,3,1,1,Yes,Yes
+30,Female,Frontend,4,QA Engineer,51454,36,0,2,1,Yes,Yes
+25,Female,Data,1,Senior Developer,37181,39,5,4,1,No,Yes
+48,Male,Security,4,Manager,49704,26,1,3,2,Yes,Yes
+43,Male,Cloud,1,Senior Developer,39451,14,4,1,1,No,Yes
+38,Female,Frontend,2,Software Engineer,74696,39,6,4,1,Yes,Yes
+30,Male,Backend,3,Manager,55758,1,1,3,3,Yes,Yes
+22,Female,Frontend,4,QA Engineer,57557,4,5,3,4,Yes,Yes
+42,Male,Backend,1,QA Engineer,51622,30,5,2,1,Yes,Yes
+41,Male,Security,2,DevOps Engineer,57963,12,4,2,1,Yes,Yes
+34,Male,Frontend,4,Manager,91973,35,4,1,4,Yes,No
+49,Male,Security,4,DevOps Engineer,50497,13,2,1,1,No,Yes
+37,Male,Cloud,4,DevOps Engineer,45243,31,9,1,1,No,Yes
+34,Female,Backend,3,Software Engineer,62945,38,9,1,1,No,No
+35,Female,Data,1,Senior Developer,20000,23,1,2,2,Yes,Yes
+24,Male,Cloud,1,QA Engineer,55959,4,6,3,1,Yes,Yes
+27,Female,Backend,4,QA Engineer,49424,16,0,2,4,Yes,Yes
+39,Female,Security,4,Senior Developer,40115,7,5,1,2,No,Yes
+40,Male,QA,4,QA Engineer,62616,22,5,4,2,No,No
+26,Female,Frontend,2,Senior Developer,55809,29,2,4,1,Yes,Yes
+36,Male,Security,4,Manager,27963,11,1,3,2,Yes,Yes
+46,Female,Backend,3,Software Engineer,45302,33,1,4,2,Yes,Yes
+23,Female,Backend,1,Software Engineer,20000,29,8,2,3,Yes,Yes
+31,Female,Backend,3,Software Engineer,59399,39,4,4,3,Yes,No
+45,Female,Backend,4,Senior Developer,59249,12,6,1,2,No,Yes
+39,Female,Frontend,2,Senior Developer,43100,7,4,2,4,No,No
+48,Female,Cloud,4,Data Engineer,63101,39,6,1,3,Yes,Yes
+34,Female,Data,4,QA Engineer,35762,26,3,1,3,Yes,Yes
+26,Male,QA,4,QA Engineer,40502,9,7,1,1,No,Yes
+44,Male,Frontend,4,Data Engineer,61257,34,9,2,1,Yes,Yes
+45,Male,Backend,4,Data Engineer,44669,13,9,3,1,Yes,No
+22,Male,Frontend,1,Software Engineer,54060,36,6,2,2,Yes,Yes
+43,Female,Security,3,Data Engineer,46545,25,9,1,2,Yes,Yes
+22,Female,Data,2,Senior Developer,48836,24,4,3,2,Yes,Yes
+39,Female,Backend,4,DevOps Engineer,49491,17,5,2,3,No,No
+36,Male,QA,2,Senior Developer,44398,2,4,2,3,Yes,Yes
+38,Male,Backend,1,Data Engineer,59536,13,6,3,4,Yes,Yes
+32,Male,Data,3,QA Engineer,45581,31,1,1,1,No,Yes
+42,Female,QA,4,Senior Developer,55235,29,4,1,2,Yes,Yes
+47,Male,Data,1,QA Engineer,44069,28,9,4,1,No,Yes
+46,Female,QA,1,Senior Developer,31985,27,2,1,1,No,Yes
+43,Male,Cloud,3,QA Engineer,68686,15,8,2,1,Yes,Yes
+48,Female,Cloud,4,Manager,62492,31,5,4,1,No,Yes
+48,Male,Frontend,3,Senior Developer,89330,15,9,3,2,Yes,No
+38,Female,Frontend,3,QA Engineer,39340,33,2,1,3,No,No
+34,Male,QA,2,DevOps Engineer,51865,20,6,1,1,Yes,Yes
+22,Male,Backend,2,Software Engineer,53072,12,3,1,3,No,No
+23,Female,Security,3,Senior Developer,69840,37,2,2,2,No,No
+30,Female,Security,2,DevOps Engineer,47393,9,7,2,1,Yes,Yes
+24,Male,Backend,1,Software Engineer,37434,23,3,1,2,Yes,Yes
+22,Female,Backend,3,Senior Developer,73117,8,0,4,1,No,Yes
+42,Male,Cloud,4,DevOps Engineer,50250,32,5,2,2,No,Yes
+37,Female,Security,4,DevOps Engineer,68179,14,9,1,2,Yes,Yes
+44,Male,QA,1,Manager,66432,27,0,2,1,No,Yes
+27,Female,Data,4,DevOps Engineer,54551,25,4,3,1,Yes,No
+49,Male,Frontend,4,Manager,52385,13,6,1,2,Yes,Yes
+38,Male,Data,3,Data Engineer,49126,21,5,1,4,Yes,No
+26,Male,Cloud,1,QA Engineer,54772,31,1,3,1,Yes,Yes
+26,Female,Security,3,Software Engineer,67946,37,3,2,3,No,Yes
+27,Male,Backend,1,QA Engineer,43053,5,1,2,2,Yes,Yes
+24,Female,Security,3,QA Engineer,56632,13,0,2,4,No,Yes
+42,Female,QA,3,Manager,38220,28,2,1,3,Yes,Yes
+44,Female,Cloud,2,QA Engineer,40088,25,2,1,2,Yes,Yes
+26,Male,Backend,4,DevOps Engineer,54535,35,6,2,2,Yes,Yes
+42,Female,Data,1,Manager,25597,39,0,1,3,Yes,Yes
+26,Female,QA,4,QA Engineer,85908,7,8,1,1,Yes,Yes
+31,Female,Data,2,Manager,37104,38,5,3,1,Yes,Yes
+31,Male,Frontend,1,Data Engineer,54398,32,3,4,1,Yes,Yes
+40,Female,Cloud,2,Manager,72523,3,2,3,3,Yes,No
+38,Female,QA,4,Senior Developer,42056,39,2,4,3,Yes,Yes
+42,Female,QA,3,DevOps Engineer,20459,37,1,1,1,Yes,Yes
+35,Female,Data,2,Software Engineer,48325,22,1,4,2,No,Yes
+30,Male,Backend,2,Senior Developer,41877,8,9,1,2,No,Yes
+35,Male,Frontend,3,Senior Developer,20854,17,4,4,1,Yes,Yes
+22,Female,Data,4,Senior Developer,59273,27,8,4,4,Yes,No
+40,Female,QA,2,QA Engineer,58106,33,1,3,1,Yes,Yes
+34,Female,Cloud,4,Manager,72134,17,1,4,1,No,No
+34,Female,QA,3,Manager,38187,12,5,2,2,Yes,Yes
+25,Male,Security,1,QA Engineer,31012,27,9,1,3,Yes,Yes
+22,Male,Cloud,2,DevOps Engineer,48899,8,1,2,1,Yes,Yes
+38,Male,Cloud,4,QA Engineer,53674,23,3,2,2,Yes,Yes
+29,Male,QA,3,QA Engineer,68820,29,5,1,2,Yes,Yes
+23,Female,Backend,3,QA Engineer,76158,20,4,2,1,No,Yes
+49,Female,Cloud,2,DevOps Engineer,73217,16,0,4,1,Yes,Yes
+29,Male,Security,1,DevOps Engineer,59148,17,5,1,2,No,Yes
+28,Male,Data,2,Data Engineer,66992,16,0,3,1,Yes,Yes
+47,Female,Backend,4,Data Engineer,45392,19,2,4,4,Yes,No
+47,Female,Backend,3,Data Engineer,57525,8,9,4,3,No,No
+23,Female,Backend,1,Data Engineer,37130,38,4,4,4,Yes,Yes
+43,Female,Cloud,4,Manager,55940,38,9,2,1,No,Yes
+43,Female,Backend,2,Senior Developer,56329,29,4,4,4,Yes,No
+24,Male,QA,3,Senior Developer,80831,36,9,3,2,Yes,Yes
+48,Male,Backend,2,Data Engineer,51565,26,5,1,1,No,Yes
+39,Female,Security,1,Data Engineer,56350,31,9,2,1,Yes,Yes
+33,Female,Frontend,1,Software Engineer,58554,12,7,3,1,No,Yes
+22,Male,Security,1,Senior Developer,48177,17,4,1,2,Yes,Yes
+43,Female,Cloud,1,Software Engineer,42962,15,0,2,2,No,Yes
+33,Male,Backend,1,Software Engineer,74482,9,4,3,1,Yes,No
+26,Male,Backend,2,QA Engineer,40286,39,2,1,2,Yes,Yes
+48,Male,QA,1,Manager,35081,12,3,2,1,No,Yes
+46,Male,Data,1,DevOps Engineer,65203,32,7,3,2,No,No
+38,Female,Backend,3,Senior Developer,72367,25,6,2,1,No,Yes
+37,Female,Security,1,Data Engineer,48228,39,4,1,3,No,Yes
+36,Male,Cloud,3,Data Engineer,48459,18,1,1,3,No,No
+44,Female,Frontend,3,DevOps Engineer,59238,15,5,2,2,Yes,Yes
+36,Female,Backend,3,Senior Developer,44382,32,5,4,1,Yes,Yes
+26,Female,Frontend,2,Data Engineer,43274,6,9,1,1,Yes,Yes
+42,Female,Backend,2,Data Engineer,68193,35,9,2,3,Yes,Yes
+35,Male,Cloud,4,QA Engineer,64106,34,5,1,1,Yes,Yes
+23,Female,Data,4,Software Engineer,74667,38,8,1,1,Yes,Yes
+32,Male,Security,3,Data Engineer,36211,5,7,3,1,Yes,Yes
+40,Male,Cloud,2,Manager,47463,18,7,3,2,No,No
+28,Female,Frontend,1,Senior Developer,59217,16,0,1,2,Yes,Yes
+27,Male,Backend,4,Manager,41115,8,4,2,3,Yes,Yes
+49,Female,Frontend,2,DevOps Engineer,64625,25,6,1,1,Yes,Yes
+23,Female,Security,1,QA Engineer,73369,32,5,2,1,No,Yes
+27,Male,Cloud,1,Senior Developer,46249,26,4,3,3,No,No
+39,Female,Frontend,2,QA Engineer,55578,22,7,1,3,No,No
+23,Male,Frontend,4,Software Engineer,76834,31,2,1,1,Yes,Yes
+39,Male,Security,2,Data Engineer,81989,10,5,2,2,Yes,Yes
+36,Female,Backend,4,Senior Developer,66187,12,4,4,1,Yes,No
+48,Female,Frontend,3,DevOps Engineer,63901,28,7,4,4,Yes,No
+40,Female,Security,2,Software Engineer,42193,6,3,1,1,Yes,Yes
+23,Male,Backend,2,Software Engineer,60388,20,7,3,4,Yes,Yes
+41,Female,Data,4,QA Engineer,63352,5,9,2,2,Yes,Yes
+46,Male,Backend,4,Software Engineer,51844,23,1,2,2,No,Yes
+27,Male,Data,2,Senior Developer,46078,9,8,3,1,No,Yes
+22,Female,Cloud,1,QA Engineer,35780,29,8,4,2,Yes,Yes
+45,Female,Security,1,Software Engineer,28934,16,9,4,2,Yes,Yes
+36,Female,Backend,1,DevOps Engineer,25781,22,9,2,1,Yes,Yes
+49,Male,Data,3,Manager,63691,8,5,2,2,Yes,Yes
+44,Female,Data,3,Senior Developer,57215,20,3,3,4,No,No
+31,Male,Cloud,4,DevOps Engineer,47742,14,3,1,2,Yes,Yes
+40,Female,QA,3,DevOps Engineer,50028,39,5,2,3,No,No
+38,Female,Security,1,QA Engineer,58157,37,4,2,1,Yes,Yes
+26,Male,QA,2,Data Engineer,52531,34,5,3,2,No,Yes
+25,Male,Backend,3,QA Engineer,34891,11,6,1,1,Yes,Yes
+31,Female,Security,3,Senior Developer,68695,33,6,1,2,No,No
+45,Female,Cloud,1,Senior Developer,59561,31,8,4,4,Yes,Yes
+38,Female,Backend,3,QA Engineer,58988,34,7,1,2,No,Yes
+31,Female,Security,4,Data Engineer,67563,7,5,2,1,Yes,Yes
+38,Female,Security,2,QA Engineer,42795,23,5,1,1,Yes,Yes
+49,Male,QA,1,Senior Developer,73205,7,4,1,2,No,Yes
+41,Male,Backend,4,Data Engineer,52899,25,0,1,2,No,Yes
+45,Male,Cloud,1,Senior Developer,68328,3,8,1,3,No,Yes
+26,Male,Cloud,4,Data Engineer,66016,38,8,4,3,No,No
