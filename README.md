@@ -78,7 +78,14 @@ Top predictors influencing attrition:
 - MonthlyIncome  
 - YearsAtCompany  
 
+## 🤖 Model Performance
 
+| Model | Accuracy | Remarks |
+|--------|-----------|----------|
+| Logistic Regression |0.75 | 
+| Decision Tree | 0.84 | 
+| **Random Forest** |**0.899** | ✅ Best overall model | 
+| XGBoost| 0.894 | 
 
 
 
